@@ -1,0 +1,42 @@
+L:\RESEARCH\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\bin\Debug\FCM-BSO.exe
+L:\RESEARCH\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\bin\Debug\FCM-BSO.pdb
+L:\RESEARCH\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM_BSO.Form1.resources
+L:\RESEARCH\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM_BSO.Properties.Resources.resources
+L:\RESEARCH\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM-BSO.csproj.GenerateResource.Cache
+L:\RESEARCH\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM-BSO.exe
+L:\RESEARCH\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM-BSO.pdb
+L:\RESEARCH\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM-BSO.csprojResolveAssemblyReference.cache
+G:\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM-BSO.exe
+G:\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM-BSO.pdb
+G:\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\bin\Debug\FCM-BSO.exe
+G:\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\bin\Debug\FCM-BSO.pdb
+G:\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM-BSO.csprojResolveAssemblyReference.cache
+G:\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM_BSO.Form1.resources
+G:\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM_BSO.Properties.Resources.resources
+G:\WINTER SEMESTER\BSO\FCM-BSO\FCM-BSO\obj\x86\Debug\FCM-BSO.csproj.GenerateResource.Cache
+C:\STUDY\MTech\Anb\FCM-BSO_old\FCM-BSO\obj\x86\Debug\FCM-BSO.exe
+C:\STUDY\MTech\Anb\FCM-BSO_old\FCM-BSO\obj\x86\Debug\FCM-BSO.pdb
+C:\STUDY\MTech\Anb\FCM-BSO_old - Copy\FCM-BSO\obj\x86\Debug\FCM-BSO.exe
+C:\STUDY\MTech\Anb\FCM-BSO_old - Copy\FCM-BSO\obj\x86\Debug\FCM-BSO.pdb
+C:\STUDY\MTech\Anb\FCM-BSO_old - Copy\FCM-BSO\bin\Debug\FCM-BSO.exe
+C:\STUDY\MTech\Anb\FCM-BSO_old - Copy\FCM-BSO\bin\Debug\FCM-BSO.pdb
+C:\STUDY\MTech\Anb\FCM-BSO_old - Copy\FCM-BSO\obj\x86\Debug\FCM-BSO.csprojResolveAssemblyReference.cache
+C:\STUDY\MTech\Anb\FCM-BSO_old - Copy\FCM-BSO\obj\x86\Debug\FCM_BSO.Form1.resources
+C:\STUDY\MTech\Anb\FCM-BSO_old - Copy\FCM-BSO\obj\x86\Debug\FCM_BSO.Properties.Resources.resources
+C:\STUDY\MTech\Anb\FCM-BSO_old - Copy\FCM-BSO\obj\x86\Debug\FCM-BSO.csproj.GenerateResource.Cache
+C:\STUDY\MTech\Anb\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM-BSO.exe
+C:\STUDY\MTech\Anb\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM-BSO.pdb
+C:\STUDY\MTech\Anb\FCM-BSO_old - final\FCM-BSO\bin\Debug\FCM-BSO.exe
+C:\STUDY\MTech\Anb\FCM-BSO_old - final\FCM-BSO\bin\Debug\FCM-BSO.pdb
+C:\STUDY\MTech\Anb\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM-BSO.csprojResolveAssemblyReference.cache
+C:\STUDY\MTech\Anb\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM_BSO.Form1.resources
+C:\STUDY\MTech\Anb\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM_BSO.Properties.Resources.resources
+C:\STUDY\MTech\Anb\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM-BSO.csproj.GenerateResource.Cache
+F:\optimization\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM-BSO.pdb
+F:\optimization\FCM-BSO_old - final\FCM-BSO\bin\Debug\FCM-BSO.exe
+F:\optimization\FCM-BSO_old - final\FCM-BSO\bin\Debug\FCM-BSO.pdb
+F:\optimization\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM_BSO.Form1.resources
+F:\optimization\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM_BSO.Properties.Resources.resources
+F:\optimization\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM-BSO.csproj.GenerateResource.Cache
+F:\optimization\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM-BSO.exe
+F:\optimization\FCM-BSO_old - final\FCM-BSO\obj\x86\Debug\FCM-BSO.csprojResolveAssemblyReference.cache

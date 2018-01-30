@@ -1,0 +1,7 @@
+F:\optimization\FCM-BSO\FCM-BSO\bin\Release\FCM-BSO.exe
+F:\optimization\FCM-BSO\FCM-BSO\bin\Release\FCM-BSO.pdb
+F:\optimization\FCM-BSO\FCM-BSO\obj\x86\Release\FCM_BSO.Form1.resources
+F:\optimization\FCM-BSO\FCM-BSO\obj\x86\Release\FCM_BSO.Properties.Resources.resources
+F:\optimization\FCM-BSO\FCM-BSO\obj\x86\Release\FCM-BSO.csproj.GenerateResource.Cache
+F:\optimization\FCM-BSO\FCM-BSO\obj\x86\Release\FCM-BSO.exe
+F:\optimization\FCM-BSO\FCM-BSO\obj\x86\Release\FCM-BSO.pdb
